@@ -2,7 +2,9 @@
 
 
 
-Welcome to **Movie Spot Part-2**! In this branch, we enhance our Django project by creating a dynamic landing page that integrates live movie data from the TMDB API. Building on the foundation set in Part-1, Part-2 introduces the following features:
+## **The Youtube Tutorial is Coming Soon!**
+
+In this branch, we enhance our Django project by creating a dynamic landing page that integrates live movie data from the TMDB API. Building on the foundation set in Part-1, Part-2 introduces the following features:
 
 - **Secure API Key Management:**  
   - Obtain your free TMDB API key.  
